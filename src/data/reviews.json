@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Aman Sharma",
+    "rating": 5,
+    "image": "https://randomuser.me/api/portraits/men/32.jpg",
+    "review": "This AI resume analyzer improved my resume instantly."
+  },
+  {
+    "id": 2,
+    "name": "Priya Verma",
+    "rating": 4,
+    "image": "https://randomuser.me/api/portraits/women/44.jpg",
+    "review": "Very helpful for checking resume mistakes. Everyone must try. "
+  },
+  {
+    "id": 3,
+    "name": "Rahul Khan",
+    "rating": 5,
+    "image": "https://randomuser.me/api/portraits/men/65.jpg",
+    "review": "The AI suggestions are accurate and helped me make my resume more professional."
+  },
+  {
+    "id": 4,
+    "name": "Neha Gupta",
+    "rating": 5,
+    "image": "https://randomuser.me/api/portraits/women/68.jpg",
+    "review": "I loved how fast the analysis works. It pointed out mistakes I never noticed."
+  },
+  {
+    "id": 5,
+    "name": "Arjun Patel",
+    "rating": 4,
+    "image": "https://randomuser.me/api/portraits/men/41.jpg",
+    "review": "A great tool for students preparing resumes for internships and jobs."
+  }
+]
