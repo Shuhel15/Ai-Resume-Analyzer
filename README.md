@@ -1,16 +1,27 @@
-# React + Vite
+🚀 **Built an AI-Powered Resume Analyzer**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I recently built **ResumeIQ**, a web app that analyzes resumes and provides intelligent feedback to help job seekers improve their chances of passing ATS screening.
 
-Currently, two official plugins are available:
+🔗 Live Demo: https://resume-iq1.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Key Features
 
-## React Compiler
+• 📊 **ATS Score Analysis** – Calculates how well a resume performs for ATS systems
+• ✍️ **Grammar & Writing Check** – Detects grammatical mistakes in the resume
+• 💡 **Smart Suggestions** – Provides AI-based suggestions to improve resume quality
+• 📄 **PDF & DOCX Support** – Upload resumes in multiple formats
+• ⚡ **Instant Analysis** – Get results within seconds
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Tech Stack
 
-## Expanding the ESLint configuration
+• **React.js** – Frontend development
+• **Google Gemini API** – AI-powered resume analysis
+• **PDF Parsing** – Extracting text from PDF resumes
+• **DOCX Parsing** – Reading Microsoft Word resumes
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔧 **Upcoming Feature:** I’m currently working on adding **AI-based job suggestions based on the user's resume skills and experience.**
+
+This project helped me explore how AI can be integrated into real-world applications to solve practical problems in the hiring process.
+
+I would love to hear your feedback! 😊
+
